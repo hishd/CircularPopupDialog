@@ -13,6 +13,26 @@ The easiest way to use CircularPopup is to add the android library to your proje
 
 Add the repository to your project build.gradle
 
+##### Maven
+```
+<repositories>
+		<repository>
+		    <id>jitpack.io</id>
+		    <url>https://jitpack.io</url>
+		</repository>
+	</repositories>
+```
+add dependency,
+```
+<dependency>
+	    <groupId>com.github.hishd</groupId>
+	    <artifactId>CircularPopupDialog</artifactId>
+	    <version>v1.0</version>
+	</dependency>
+```
+
+##### Gradle
+
 ```
 allprojects {
     repositories {
@@ -22,12 +42,11 @@ allprojects {
     }
 }
 ```
-
-##### Gradle
+add the dependency,
 ```
 dependencies {
-    implementation 'com.github.hishd:CircularPopup:1.0'
-}
+	        implementation 'com.github.hishd:CircularPopupDialog:v1.0'
+	}
 ```
 
 ## Usage
