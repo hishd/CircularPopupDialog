@@ -65,61 +65,61 @@ new CircularPopup(MainActivity.this)
 
 The below types should be passed as the second paremeter of the *createAlert()* method.
 
-Constraints.SUCCESS = Shows a success dialog.
-Constraints.WARNING = Shows a warning dialog.
-Constraints.ERROR = Shows a error dialog.
+- Constraints.SUCCESS = Shows a success dialog.
+- Constraints.WARNING = Shows a warning dialog.
+- Constraints.ERROR = Shows a error dialog.
 
 **Dialog Sizes**
 
 The below types should be passed as the third paremeter of the *createAlert()* method.
 
-Constraints.SMALL = Shows a small sized dialog.
-Constraints.MEDIUM = Shows a medium sized dialog.
-Constraints.LARGE = Shows a large sized dialog.
+- Constraints.SMALL = Shows a small sized dialog.
+- Constraints.MEDIUM = Shows a medium sized dialog.
+- Constraints.LARGE = Shows a large sized dialog.
 
 **Dialog Text sizes**
 
 The below types should be passed as the  paremeter of the *setTextSize()* method.
 
-Constraints.NORMAL_TEXT_SIZE
-Constraints.LARGE_TEXT_SIZE
-Constraints.EXTRA_LARGE_TEXT_SIZE
+- Constraints.NORMAL_TEXT_SIZE
+- Constraints.LARGE_TEXT_SIZE
+- Constraints.EXTRA_LARGE_TEXT_SIZE
 
 **Dialog Animations**
 
 The below types should be passed as the  paremeter of the *setAnimation()* method.
 
-Constraints.SCALE_FROM_BOTTOM_TO_BOTTOM
-Constraints.SCALE_TO_BOTTOM_FROM_BOTTOM
-Constraints.SCALE_TO_TOP_FROM_TOP
-Constraints.SCALE_FROM_TOP_TO_TOP
-Constraints.SCALE_FROM_TOP_TO_BOTTOM
-Constraints.SCALE_TO_TOP_FROM_BOTTOM
-Constraints.SCALE_FROM_BOTTOM_TO_TOP
+- Constraints.SCALE_FROM_BOTTOM_TO_BOTTOM
+- Constraints.SCALE_TO_BOTTOM_FROM_BOTTOM
+- Constraints.SCALE_TO_TOP_FROM_TOP
+- Constraints.SCALE_FROM_TOP_TO_TOP
+- Constraints.SCALE_FROM_TOP_TO_BOTTOM
+- Constraints.SCALE_TO_TOP_FROM_BOTTOM
+- Constraints.SCALE_FROM_BOTTOM_TO_TOP
 
-Constraints.SLIDE_FROM_BOTTOM_TO_BOTTOM
-Constraints.SLIDE_TO_BOTTOM_FROM_BOTTOM
-Constraints.SLIDE_TO_TOP_FROM_TOP
-Constraints.SLIDE_FROM_TOP_TO_TOP
-Constraints.SLIDE_FROM_TOP_TO_BOTTOM
-Constraints.SLIDE_TO_TOP_FROM_BOTTOM
-Constraints.SLIDE_FROM_BOTTOM_TO_TOP
+- Constraints.SLIDE_FROM_BOTTOM_TO_BOTTOM
+- Constraints.SLIDE_TO_BOTTOM_FROM_BOTTOM
+- Constraints.SLIDE_TO_TOP_FROM_TOP
+- Constraints.SLIDE_FROM_TOP_TO_TOP
+- Constraints.SLIDE_FROM_TOP_TO_BOTTOM
+- Constraints.SLIDE_TO_TOP_FROM_BOTTOM
+- Constraints.SLIDE_FROM_BOTTOM_TO_TOP
 
-Constraints.SCALE_FROM_LEFT_TO_LEFT
-Constraints.SCALE_TO_LEFT_FROM_LEFT
-Constraints.SCALE_TO_RIGHT_FROM_RIGHT
-Constraints.SCALE_FROM_RIGHT_TO_RIGHT
-Constraints.SCALE_FROM_RIGHT_TO_LEFT
-Constraints.SCALE_TO_RIGHT_FROM_LEFT
-Constraints.SCALE_FROM_LEFT_TO_RIGHT
+- Constraints.SCALE_FROM_LEFT_TO_LEFT
+- Constraints.SCALE_TO_LEFT_FROM_LEFT
+- Constraints.SCALE_TO_RIGHT_FROM_RIGHT
+- Constraints.SCALE_FROM_RIGHT_TO_RIGHT
+- Constraints.SCALE_FROM_RIGHT_TO_LEFT
+- Constraints.SCALE_TO_RIGHT_FROM_LEFT
+- Constraints.SCALE_FROM_LEFT_TO_RIGHT
 
-Constraints.SLIDE_FROM_LEFT_TO_LEFT
-Constraints.SLIDE_TO_LEFT_FROM_LEFT
-Constraints.SLIDE_TO_RIGHT_FROM_RIGHT
-Constraints.SLIDE_FROM_RIGHT_TO_RIGHT
-Constraints.SLIDE_FROM_RIGHT_TO_LEFT
-Constraints.SLIDE_TO_RIGHT_FROM_LEFT
-Constraints.SLIDE_FROM_LEFT_TO_RIGHT
+- Constraints.SLIDE_FROM_LEFT_TO_LEFT
+- Constraints.SLIDE_TO_LEFT_FROM_LEFT
+- Constraints.SLIDE_TO_RIGHT_FROM_RIGHT
+- Constraints.SLIDE_FROM_RIGHT_TO_RIGHT
+- Constraints.SLIDE_FROM_RIGHT_TO_LEFT
+- Constraints.SLIDE_TO_RIGHT_FROM_LEFT
+- Constraints.SLIDE_FROM_LEFT_TO_RIGHT
 
 #### Using customized icons
 
