@@ -1,4 +1,6 @@
 # Circular Popup Dialog
+[![](https://jitpack.io/v/hishd/CircularPopupDialog.svg)](https://jitpack.io/#hishd/CircularPopupDialog)
+
 
 Circular popup for android, a popup dialog based on [HassanUsmans](https://github.com/HassanUsman/CircularDialogs "HassanUsman") original circular dialog.
 
